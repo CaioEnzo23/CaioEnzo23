@@ -4,7 +4,11 @@
 👨‍🎓 Cursando: Ciências da Computação
 👨🏻 Pronouns: ele/dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioEnzo23)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/CaioEnzo">
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=CaioEnzo23&show_icons=true&theme=dark&include_all_commits=true&cont_private=true"/>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEnzo23&layou=compact&langs_count=16&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
