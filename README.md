@@ -1,6 +1,6 @@
 ### Sou o Caio, programador iniciante apaixonado pela área da tecnologia e inovação 👋
 
-📝 Estudando: Front-end
+📝 Estudando: Back End e Analise de Dados
 👨‍🎓 Cursando: Ciências da Computação
 👨🏻 Pronouns: ele/dele
 
