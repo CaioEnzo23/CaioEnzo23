@@ -50,7 +50,7 @@
 
 ---
 
-![Snake animation](https://github.com/CaioEnzo23/CaioEnzo23/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/CaioEnzo23/CaioEnzo23/output/dist/github-contribution-grid-snake.svg)
 
 <!--
 📌 Pronouns: ele/dele
