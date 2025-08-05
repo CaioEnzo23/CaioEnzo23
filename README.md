@@ -49,7 +49,12 @@
 </a>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/CaioEnzo23/CaioEnzo23/output/github-contribution-grid-snake.svg)
+<h2 align="center">🐍 Snake Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CaioEnzo23/CaioEnzo23/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
 
 <!--
 📌 Pronouns: ele/dele
