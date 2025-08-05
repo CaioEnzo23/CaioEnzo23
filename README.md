@@ -49,7 +49,6 @@
 </a>
 
 ---
-
 ![Snake animation](https://raw.githubusercontent.com/CaioEnzo23/CaioEnzo23/output/dist/github-contribution-grid-snake.svg)
 
 <!--
